@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientService", "PatientService\PatientService.csproj", "{0768BD37-C466-485D-9F29-1A5E553CB08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentService", "AppointmentService\AppointmentService.csproj", "{8211A100-8D42-489D-A8DA-FAF855D1DD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffService", "StaffService\StaffService.csproj", "{2C68FC59-2728-4A2D-93F1-91E1A4285F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0768BD37-C466-485D-9F29-1A5E553CB08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0768BD37-C466-485D-9F29-1A5E553CB08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0768BD37-C466-485D-9F29-1A5E553CB08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0768BD37-C466-485D-9F29-1A5E553CB08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8211A100-8D42-489D-A8DA-FAF855D1DD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8211A100-8D42-489D-A8DA-FAF855D1DD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8211A100-8D42-489D-A8DA-FAF855D1DD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8211A100-8D42-489D-A8DA-FAF855D1DD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C68FC59-2728-4A2D-93F1-91E1A4285F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C68FC59-2728-4A2D-93F1-91E1A4285F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C68FC59-2728-4A2D-93F1-91E1A4285F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C68FC59-2728-4A2D-93F1-91E1A4285F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
